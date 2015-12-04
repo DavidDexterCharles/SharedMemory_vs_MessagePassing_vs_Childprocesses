@@ -1,1 +1,1 @@
-# SharedMemory_vs_MessagePassingVS_ChildProcesses
+# SharedMemory and MessagePassing
